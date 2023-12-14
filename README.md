@@ -1,5 +1,5 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_1.png" />
+<p align="center" width="600">
+   <img align="center" width="400" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_1.png" />
    <h3 align="center">¡Hey 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
 
