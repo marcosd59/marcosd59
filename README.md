@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="1128" alt="Linkedin Page" src="https://github.com/marcosd59/marcosd59/blob/main/img/Professional%20LinkedIn%20Banner.png?raw=true">
+
+## About me
+
+- 🎓 BSc in Telematics Engineering
