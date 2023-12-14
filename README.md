@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 1 año experiencia.<br />¡Revisa mi contenido 👇!</p>
-<p align="center">
+<!-- <p align="center">
    <a href="#" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" height="28px" width="28px" />
   </a>
@@ -16,7 +16,7 @@
   <a href="#" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="28px" width="28px" />
   </a>
-</p>
+</p> -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcosd59/">
