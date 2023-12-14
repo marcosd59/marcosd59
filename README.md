@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🎓 BSc in Telematics Engineering
+- 🎓 Ingeniero en Datos e Intelegencia Organizacional
+- 👨🏻‍💻 **Frontend Software Engineer**. Passionate about JavaScript, React, Next, and Node.js
