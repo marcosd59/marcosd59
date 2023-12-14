@@ -19,10 +19,10 @@
 </p> -->
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/marcosd59/">
+  <a href="https://www.linkedin.com/in/marcosd59/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="#" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
