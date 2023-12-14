@@ -57,7 +57,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="justify">
+<p align="center">
 <a href="https://github.com/marcosd59">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcosd59&show_icons=true&theme=device&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcosd59&layout=compact&langs_count=8&theme=device"/>
