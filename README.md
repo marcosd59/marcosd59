@@ -35,6 +35,7 @@
 - 🌱 I'm a Fullstack Developer passionate about learning new things.
 - ⚡ In my spare time, I like to take new courses about programming languages and new technologies.
 - 👨‍🏫 Currently, I'm learning the basics of ethical hacking because I find this topic also very interesting.
+- 📫 How to reach me **damian.marcospool@gmail.com**
 
 ## Languages and Tools:
 
