@@ -1,8 +1,8 @@
 <p align="center" width="500">
    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
-   <h3 align="center">¡Hey 👋! Soy Marcos 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 1 año experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack Junior</strong> con 1 año experiencia.<br />¡Revisa mi contenido 👇!</p>
 <!-- <p align="center">
    <a href="#" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" height="28px" width="28px" />
