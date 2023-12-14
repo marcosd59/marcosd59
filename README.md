@@ -1,5 +1,5 @@
-<p align="center" width="500">
-   <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
+<p align="center" width="400">
+   <img align="center" width="200" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
    <h3 align="center">¡Hey 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 1 año experiencia.<br />¡Revisa mi contenido 👇!</p>
