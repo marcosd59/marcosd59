@@ -19,9 +19,6 @@
   </a>
 </p>
 
-
-<img width="1128" alt="Linkedin Page" src="https://github.com/marcosd59/marcosd59/blob/main/img/Professional%20LinkedIn%20Banner.png?raw=true">
-
 ## About me
 
 - 🎓 Ingeniero en Datos e Intelegencia Organizacional
