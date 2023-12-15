@@ -54,13 +54,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️&nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/marcosd59">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcosd59&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcosd59&layout=pie&langs_count=8&theme=default"/>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=pie"/>
 </a>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </p>
