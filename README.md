@@ -54,7 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
    <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default"/>
