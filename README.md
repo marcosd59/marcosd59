@@ -37,7 +37,7 @@
 - 👨‍🏫 Currently, I'm learning the basics of ethical hacking because I find this topic also very interesting.
 - 📫 How to reach me **damian.marcospool@gmail.com**
 
-## GitHub Analytics
+### GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
    <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default"/>
@@ -45,7 +45,7 @@
 <!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosd59"/> -->
 </p>
 
-## Languages and Tools:
+## Languages and Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"    height="40"/>&nbsp;
