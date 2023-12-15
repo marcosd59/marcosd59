@@ -64,5 +64,5 @@
 </p>
 
 <p>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=donut-vertical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=donut-vertical" />
 </p>
