@@ -57,7 +57,7 @@
 ## ⚙️&nbsp;GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default"/>
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=donut"/>
+   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default"/>
+   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=donut"/>
 <!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosd59"/> -->
 </p>
