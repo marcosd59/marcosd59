@@ -19,10 +19,10 @@
 </p> -->
 
 <div id="badges" align="center" text-decoration="none">
-  <a href="https://www.linkedin.com/in/marcosd59/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1gog7e9pk4HKerR0f6ho_36bfCpE2F7-z/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1gog7e9pk4HKerR0f6ho_36bfCpE2F7-z/view?usp=sharing" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
