@@ -2,7 +2,7 @@
    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con 1 año experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
 <!-- <p align="center">
    <a href="#" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" height="28px" width="28px" />
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1gog7e9pk4HKerR0f6ho_36bfCpE2F7-z/view?usp=sharing" target="_blank" text-decoration="none">
+  <a href="https://drive.google.com/file/d/1TzxOFks7PTVkERm0MD-JDVQq8PS1cvri/view?usp=sharing" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
