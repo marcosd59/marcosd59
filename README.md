@@ -59,9 +59,8 @@
 ## GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
-   <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default"/>
-   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=donut"/>
-<!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosd59"/> -->
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcosd59&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
