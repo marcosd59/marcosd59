@@ -16,7 +16,9 @@
   <a href="#" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="28px" width="28px" />
   </a>
-</p> -->
+</p> ♻️ 🔴 🟢 🔵 -->
+
+
 
 <div id="badges" align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
