@@ -2,7 +2,10 @@
 <!--    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" /> -->
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
+
+<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p>
+
+<!-- <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
 
 <div id="badges" align="center" text-decoration="none">
   <a href="" target="_blank" text-decoration="none">
@@ -11,7 +14,7 @@
   <a href="" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-</div>
+</div> -->
 ## About me
 
 - 🎓 Data and Organizational Intelligence Engineer.
