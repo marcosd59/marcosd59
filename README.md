@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p>
+<!--  <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p> -->
 
 <!-- <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
 
