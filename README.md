@@ -12,12 +12,12 @@
 </div>
 
 <!--  <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p> -->
-<p align="center">Soy <strong>Desarrollador Front End</strong> Junior.<br />¡Revisa mi contenido 👇!</p>
+<!-- <p align="center">Soy <strong>Desarrollador Front End</strong> Junior.<br />¡Revisa mi contenido 👇!</p> -->
 <div id="badges" align="center" text-decoration="none">
-  <a href="" target="_blank" text-decoration="none">
+  <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="" target="_blank" text-decoration="none">
+  <a href="https://github.com/marcosd59" target="_blank" text-decoration="none">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div> 
