@@ -1,7 +1,9 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" />
+<div>
+	<img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" />
+</div>
 
 <p align="center" width="500">
-<!--    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" /> -->
+   <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h3>
 </p>
 
