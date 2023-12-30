@@ -35,7 +35,7 @@
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,php,react,nodejs,mongodb,mysql,aws,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,php,react,nodejs,mongodb,mysql,aws,vscode,git" />
 </div>
 
 <!-- <div align="center">
