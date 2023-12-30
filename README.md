@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="" target="_blank" text-decoration="none">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div> 
 ## About me
