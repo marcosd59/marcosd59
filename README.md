@@ -25,6 +25,14 @@
 - 👨‍🏫 Currently, I'm focused on mastering full-stack development.
 - 📫 How to reach me **damian.marcospool@gmail.com**
 
+## Languages-Frameworks Tools
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,figma" />
+</div>
+<br/>
+<hr/>
+
 ## Languages and Tools
 
 <div align="center">
