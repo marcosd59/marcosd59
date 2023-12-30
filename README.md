@@ -2,7 +2,8 @@
 	<img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" />
 	<br/>
 </div>
-
+<br/>
+<br/>
 <div>
 <p align="center" width="500">
    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" />
@@ -11,8 +12,7 @@
 </div>
 
 <!--  <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p> -->
-<!-- <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p> -->
-
+<p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
 <div id="badges" align="center" text-decoration="none">
   <a href="" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div> 
+
 ## About me
 
 - 🎓 Data and Organizational Intelligence Engineer.
