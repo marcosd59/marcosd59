@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=marcosd59" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" />
 
 <p align="center" width="500">
 <!--    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture_2.png" /> -->
