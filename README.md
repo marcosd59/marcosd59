@@ -4,7 +4,6 @@
 </p>
 
 <!--  <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p> -->
-
 <!-- <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.<br />¡Revisa mi contenido 👇!</p>
 
 <div id="badges" align="center" text-decoration="none">
@@ -25,12 +24,6 @@
 - 👨‍🏫 Currently, I'm focused on mastering full-stack development.
 - 📫 How to reach me **damian.marcospool@gmail.com**
 
-## Languages-Frameworks Tools
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,figma" />
-</div>
-
 ## Languages and Tools
 
 <div align="center">
@@ -42,9 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
