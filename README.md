@@ -24,7 +24,7 @@
 
 ## About me
 
-- 🎓 Data and Organizational Intelligence Engineer from University of Caribe.
+- 🎓 Data and Organizational Intelligence. Engineer from University of Caribe.
 - 👨🏻‍💻 Passionate about JavaScript, React, SQL, Next, and Node.js
 - 🔭 I'm looking for opportunities that allow me to keep growing, both personally and professionally.
 - 🌱 I'm a Front End Developer passionate about learning new things.
