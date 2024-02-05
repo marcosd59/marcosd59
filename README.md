@@ -57,5 +57,5 @@
 <p align="center" padding-bottom: "25px">
    <img height ="180em" src="http://github-readme-streak-stats.herokuapp.com?user=marcosd59&theme=dark&background=000000"/>
    <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=vision-friendly-dark"/>
-	<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=dark" />
+	<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=vision-friendly-dark" />
 </p>
