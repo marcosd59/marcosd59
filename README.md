@@ -55,14 +55,45 @@
 ## GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
-<!-- 	<img height ="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/> -->
-<!-- 	<img height ="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=#fb8c00&fire=0084FF&currStreakLabel=fb8c00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/> -->
-	<img height ="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=#fb8c00&fire=0084FF&currStreakLabel=fb8c00&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&hide=jupyter%20notebook,c%2B%2B"/>
-<!-- 	<img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000000&hide=jupyter%20notebook,c%2B%2B"/> -->
-<!-- 	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000000&icon_color=0084ff"/> -->
-<!-- 	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000000&icon_color=0084ff"/> -->
-<!--    	<img height ="160em" src="http://github-readme-streak-stats.herokuapp.com?user=marcosd59&theme=dark&background=000000"/> -->
-   	<img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=vision-friendly-dark"/>
- 	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=vision-friendly-dark" />
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=vision-friendly-dark"/>
+	<!-- GitHub Streak -->
+	<img height ="160em" src="http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=fb8c00&fire=fb8c00&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/> 
+	<!-- GitHub Top Lang -->
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=fb8c00&text_color=ffffff&bg_color=000000"/>
+	<!-- GitHub Stats -->
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=fb8c00&text_color=ffffff&bg_color=000000&icon_color=6e56dc"/>
+	<!-- GitHub Repo -->
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=fb8c00&text_color=ffffff&bg_color=000000&icon_color=6e56dc"/>
 </p>
+
+
+
+<!-- GitHub AZUL
+
+GitHub Streak
+http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff
+
+ GitHub Top Lang 
+https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000000&hide=jupyter%20notebook,c%2B%2B
+
+GitHub Stats
+https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000000&icon_color=0084ff
+
+GitHub Repo 
+https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000000&icon_color=fff
+-->
+
+
+<!-- GitHub NARANJA
+
+GitHub Streak
+http://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000000&sideLabels=ffffff&ring=fb8c00&fire=fb8c00&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff
+
+GitHub Top Lang
+https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=fb8c00&text_color=ffffff&bg_color=000000
+
+GitHub Stats
+https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=fb8c00&text_color=ffffff&bg_color=000000&icon_color=6e56dc
+
+GitHub Repo
+https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=fb8c00&text_color=ffffff&bg_color=000000&icon_color=6e56dc
+-->
