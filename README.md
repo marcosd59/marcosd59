@@ -50,3 +50,9 @@
 	<!-- GitHub Repo -->
 	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000000&icon_color=fff"/>
 </p>
+
+## Contribution Graph
+
+<p align="center" padding-bottom: "25px">
+	<img height ="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000000&line=0084ff&point=fff&color=fff"/>
+</p>
