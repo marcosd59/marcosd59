@@ -47,9 +47,7 @@ https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cy
 <!-- GitHub Repo -->
 <img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=fb8c00&text_color=ffffff&bg_color=000000&icon_color=6e56dc"/>
 
-
 -->
-
 
 ICONOS
 
