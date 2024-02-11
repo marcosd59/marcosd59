@@ -7,7 +7,7 @@
 <div>
 <p align="center" width="500">
 <!--    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture.png" /> -->
-	<img align="center" height ="200em" src="https://github.com/marcosd59/marcosd59/blob/main/img/Banner%20LinkedIn%202.png?raw=true" />
+<!-- 	<img align="center" height ="200em" src="https://github.com/marcosd59/marcosd59/blob/main/img/Banner%20LinkedIn%202.png?raw=true" /> -->
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
