@@ -7,13 +7,11 @@
 <div>
 <p align="center" width="500">
 <!--    <img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture.png" /> -->
-<!-- 	<img align="center" height ="200em" src="https://github.com/marcosd59/marcosd59/blob/main/img/Banner%20LinkedIn%202.png?raw=true" /> -->
    <h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
 
 <!--  <p align="center">Soy <strong>Desarrollador Front End Junior</strong> con experiencia.</p> -->
-<!-- <p align="center">Soy <strong>Desarrollador Front End</strong> Junior.<br />¡Revisa mi contenido 👇!</p> -->
 <div id="badges" align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
