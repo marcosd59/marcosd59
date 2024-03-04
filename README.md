@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div>
-<p align="center" width="300">
+<p align="center" width="100">
 <!-- 	<img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture.png" /> -->
 	<img align="center" width="300" src="./img/Photo.png" />
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
