@@ -40,19 +40,19 @@
 
 <p align="center" padding-bottom: "25px">
 	<!-- GitHub Streak -->
-	<img height ="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
+	<img height ="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=0c0d0f&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
 	<!-- GitHub Top Lang -->
-	<img height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook,c%2B%2B,html"/>
+	<img height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&hide=jupyter%20notebook,c%2B%2B,html"/>
 	<!-- GitHub Stats -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=0084ff"/>
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&icon_color=0084ff"/>
 	<!-- GitHub Repo -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=fff"/>
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&icon_color=fff"/>
 </p>
 
 ## Contribution Graph
 
 <p align="center" padding-bottom: "20px">
-	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
+	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
 </p>
 
 # ejemplo
