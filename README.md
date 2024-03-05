@@ -40,7 +40,7 @@
 
 <p align="center" padding-bottom: "25px">
 	<!-- GitHub Streak -->
-	<img height ="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=transparent&background=000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
+	<img height ="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=transparent&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
 	<!-- GitHub Top Lang -->
 	<img height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook,c%2B%2B,html"/>
 	<!-- GitHub Stats -->
