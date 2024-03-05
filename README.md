@@ -68,6 +68,7 @@
   />
 <p align="center" padding-bottom: "20px">
   <img height ="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" />
+<img height ="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" /
 </p>
 </picture>
 
