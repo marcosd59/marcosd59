@@ -112,7 +112,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=default"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=000&bg_color=fff&line=0084ff&point=000&color=000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=default" />
