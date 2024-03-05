@@ -48,8 +48,8 @@
 
   <!-- GitHub Top Languages -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook&hide=html" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=000&bg_color=fff&hide=jupyter%20notebook&hide=html" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=html,jupyter%20notebook,c%2B%2B" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=000&bg_color=fff&hide=html,jupyter%20notebook,c%2B%2B" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
   </picture>
 
