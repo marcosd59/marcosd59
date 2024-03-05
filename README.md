@@ -72,7 +72,7 @@
 <p align="center" padding-bottom: "20px">
   <!-- Contribution Graph -->
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000&line=0084ff&point=fff&color=fff&area=true&area_color=0070ff" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000&line=0084ff&point=fff&color=fff&area=true&area_color=0050ff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=000&bg_color=fff&line=0084ff&point=0060ff&color=000&area=true&area_color=0088ff" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=default" alt="Contribution Graph" />
   </picture>
