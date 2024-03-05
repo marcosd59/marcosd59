@@ -44,13 +44,13 @@
 	<!-- GitHub Top Lang -->
 	<img height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=242938&hide=jupyter%20notebook,c%2B%2B,html"/>
 	<!-- GitHub Stats -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=0c1114&icon_color=0084ff"/>
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=242938&icon_color=0084ff"/>
 	<!-- GitHub Repo -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=0c1114&icon_color=fff"/>
+	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=242938&icon_color=fff"/>
 </p>
 
 ## Contribution Graph
 
 <p align="center" padding-bottom: "20px">
-	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=0c1114&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
+	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=242938&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
 </p>
