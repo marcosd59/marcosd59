@@ -39,35 +39,16 @@
 ## GitHub Analytics
 
 <p align="center" padding-bottom: "25px">
-	<!-- GitHub Streak -->
-	<img height ="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=0c0d0f&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff"/>
-	<!-- GitHub Top Lang -->
-	<img height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&hide=jupyter%20notebook,c%2B%2B,html"/>
-	<!-- GitHub Stats -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&icon_color=0084ff"/>
-	<!-- GitHub Repo -->
-	<img height ="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&icon_color=fff"/>
-</p>
-
-## Contribution Graph
-
-<p align="center" padding-bottom: "20px">
-	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
-</p>
-
-# ejemplo
-
-<p align="center" padding-bottom: "25px">
   <!-- GitHub Streak -->
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default&background=fff&sideLabels=000&ring=0084FF&fire=0084ff&currStreakLabel=0084FF&sideNums=000&currStreakNum=000&dates=000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" alt="GitHub Streak" />
   </picture>
 
   <!-- GitHub Top Languages -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=0c0d0f&hide=jupyter%20notebook,c%2B%2B,html" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook,c%2B%2B,html" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
   </picture>
@@ -85,6 +66,8 @@
     <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=default" alt="GitHub Repo" />
   </picture>
 </p>
+
+## Contribution Graph
 
 <p align="center" padding-bottom: "20px">
   <!-- Contribution Graph -->
