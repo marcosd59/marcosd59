@@ -5,7 +5,6 @@
 <br/>
 <div>
 <p align="center" width="300">
-<!-- 	<img align="center" width="300" src="https://raw.githubusercontent.com/marcosd59/marcosd59/main/img/Picture.png" /> -->
 	<img align="center" width="250" src="./img/Photo.png" />
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
@@ -67,7 +66,9 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" />
+<p align="center" padding-bottom: "20px">
+  <img height ="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" />
+</p>
 </picture>
 
 <picture>
