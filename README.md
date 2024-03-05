@@ -54,3 +54,22 @@
 <p align="center" padding-bottom: "20px">
 	<img height ="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff"/>
 </p>
+
+<img id="github-streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" alt="GitHub Streak" />
+
+<script>
+  const streakImg = document.getElementById('github-streak');
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    streakImg.src = "https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=0c1114&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff";
+  }
+</script>
+
+<img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
+
+<script>
+  const langsImg = document.getElementById('github-top-langs');
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    langsImg.src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=0c1114&hide=jupyter%20notebook,c%2B%2B,html";
+  }
+</script>
+
