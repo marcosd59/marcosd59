@@ -57,39 +57,39 @@
 
 # ejemplo
 
-<p align="center" style="padding-bottom: 25px;">
+<p align="center" padding-bottom: "25px">
   <!-- GitHub Streak -->
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=dark&background=000&sideLabels=ffffff&ring=0084FF&fire=0084FF&currStreakLabel=0084FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosd59&theme=default" alt="GitHub Streak" />
   </picture>
 
   <!-- GitHub Top Languages -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&title_color=0084ff&text_color=ffffff&bg_color=000&hide=jupyter%20notebook,c%2B%2B,html" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
   </picture>
 
   <!-- GitHub Stats -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=0084ff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "170em"  src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img height = "160em"  src="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&theme=default" alt="GitHub Stats" />
   </picture>
   <!-- GitHub Repo -->
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=fff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height = "170em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=default" alt="GitHub Repo" />
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosd59&repo=quick-cyber-store&theme=default" alt="GitHub Repo" />
   </picture>
 </p>
 
 <p align="center" padding-bottom: "20px">
   <!-- Contribution Graph -->
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&title_color=0084ff&text_color=ffffff&bg_color=000&line=0084ff&point=fff&color=fff&area=true&area_color=0088ff" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height = "250em" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosd59&theme=default" alt="Contribution Graph" />
   </picture>
