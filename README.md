@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<p align="center">Soy <strong>Desarrollador Front-End</strong> Junior.</p>
+<p align="center">Soy <strong>Desarrollador Front end</strong> Jr.</p>
 <div id="badges" align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
