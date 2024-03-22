@@ -1,11 +1,11 @@
 <div>
-	<!-- <img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" /> -->
+	<img align="right" src="https://api.visitorbadge.io/api/visitors?path=marcosd59&countColor=%230099ff" />
 	<br />
 </div>
 <br/>
 <div>
 <p align="center" width="300">
-	<img align="center" width="250" src="https://github.com/marcosd59/marcosd59/blob/main/img/Photo.png?raw=true" />
+	<img align="center" width="250" src="https://github.com/marcosd59/marcosd59/blob/main/img/Photo.pn" />
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
