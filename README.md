@@ -5,7 +5,7 @@
 <br/>
 <div>
 <p align="center" width="300">
-	<img align="center" width="250" src="https://github.com/marcosd59/marcosd59/blob/main/img/Photo.pn" />
+	<img align="center" width="250" src="https://github.com/marcosd59/marcosd59/blob/main/img/Photo.png=raw?" />
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
