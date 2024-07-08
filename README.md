@@ -9,7 +9,6 @@
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
-
 <p align="center">Soy <strong>Desarrollador Front end</strong> Jr.</p>
 <div id="badges" align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
