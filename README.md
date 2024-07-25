@@ -10,9 +10,9 @@
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
 </div>
-<p align="center">Soy <strong>Desarrollador Front end</strong> Jr.</p>
+<p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
 <div id="badges" align="center" text-decoration="none">
-  <a href="https://www.linkedin.com/in/marcosd58/" target="_blank" text-decoration="none">
+  <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://portfolio-marcospool.netlify.app/" target="_blank" text-decoration="none">
@@ -25,7 +25,7 @@
 - 🎓 Data and Organizational Intelligence. Engineer from University of Caribe.
 - 👨🏻‍💻 Passionate about HTML, CSS, JavaScript, React, SQL, and Node.js
 - 🔭 I'm looking for opportunities that allow me to keep growing, both personally and professionally.
-- 🌱 I'm a Front end Developer passionate about learning new things.
+- 🌱 I'm a Back End Developer passionate about learning new things.
 - ⚡ In my spare time, I like to take new courses about programming languages and new technologies.
 - 👨‍🏫 Currently, I'm focused on mastering full-stack development.
 - 📫 How to reach me **damian.marcospool@gmail.com**
