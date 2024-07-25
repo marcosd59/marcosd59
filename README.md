@@ -33,7 +33,7 @@
 ## Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,php,vuejs,react,nodejs,mongodb,mysql,aws,gcp,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python,php,vuejs,react,nodejs,mongodb,mysql,aws,gcp,git" />
 </div>
 
 ## GitHub Analytics
