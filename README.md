@@ -24,7 +24,7 @@
 ## About me
 
 - 🎓 Data and Organizational Intelligence. Engineer from University of Caribe.
-- 👨🏻‍💻 Passionate about HTML, CSS, JavaScript, React, SQL, and Node.js
+- 👨🏻‍💻 Passionate about HTML, CSS, JavaScript, PHP, React, Vue, SQL, and Node.js
 - 🔭 I'm looking for opportunities that allow me to keep growing, both personally and professionally.
 - 🌱 I'm a Back End Developer passionate about learning new things.
 - ⚡ In my spare time, I like to take new courses about programming languages and new technologies.
