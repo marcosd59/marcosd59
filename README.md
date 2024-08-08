@@ -8,7 +8,6 @@
 <!-- 	<img align="center" width="250" src="https://github.com/marcosd59/marcosd59/blob/main/img/Photo.png?raw=true" /> -->
 	<h3 align="center">¡Hola 👋! Soy Marcos 👨🏻‍💻</h2>
 </p>
-	
 </div>
 <p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
 <div id="badges" align="center" text-decoration="none">
