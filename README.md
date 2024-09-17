@@ -55,7 +55,6 @@
     <img height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosd59&layout=compact&theme=default" alt="GitHub Top Languages" />
   </picture>
 
-
   <!-- GitHub Stats -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=marcosd59&show_icons=true&title_color=0084ff&text_color=ffffff&bg_color=000&icon_color=0084ff" media="(prefers-color-scheme: dark)" />
