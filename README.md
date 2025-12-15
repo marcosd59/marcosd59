@@ -12,6 +12,11 @@
 	
 </div>
 <p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
+
+<!-- AWS:START -->
+<p align="center"><em>(Se actualiza automáticamente con una frase diaria)</em></p>
+<!-- AWS:END -->
+
 <div id="badges" align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/marcosd59/" target="_blank" text-decoration="none">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
