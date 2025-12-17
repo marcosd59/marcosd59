@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Construye tu visión paso a paso, cada día, con pasión y recursión; la constancia es la clave para un producto durable y de calidad.</p>
-<p align="center"><em>Última actualización (AWS): 2025-12-17T09:13:40.363Z</em></p>
+<p align="center"><strong>Frase del día:</strong> Construyendo soluciones innovadoras con enfoque diario, en un viaje de mejora continua hacia el éxito digital.</p>
+<p align="center"><em>Última actualización (AWS): 2025-12-17T15:13:40.204Z</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
