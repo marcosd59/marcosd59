@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Construyendo sueños bit a bit, día a día, con pasión y constancia - tu proyecto de GitHub brilla con cada commit.</p>
-<p align="center"><em>Última actualización (AWS): 21/12/2025, 03:13:40 p.m.</em></p>
+<p align="center"><strong>Frase del día:</strong> Construyendo soluciones robustas día a día, con ingenio y perseverancia, para crear productos tecnológicos innovadores.</p>
+<p align="center"><em>Última actualización (AWS): 21/12/2025, 09:13:40 p.m.</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
