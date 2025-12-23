@@ -11,7 +11,7 @@
 </p>
 	
 </div>
-<p align="center">Soy <strong>Desarrollador Back End</strong> Jr.</p>
+<p align="center">Soy <strong>Ingeniero de Software</strong></p>
 
 <!-- AWS:START -->
 <p align="center"><strong>Frase del día:</strong> Construyendo soluciones de vanguardia, un commit a la vez. Cultivando la excelencia, día tras día.</p>
