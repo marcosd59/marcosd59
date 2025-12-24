@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Ingeniero de Software</strong></p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Código, café y constancia diaria: la poderosa combinación que da vida a proyectos excepcionales.</p>
-<p align="center"><em>Última actualización (AWS): 23/12/2025, 03:13:40 p.m.</em></p>
+<p align="center"><strong>Frase del día:</strong> Construyendo sueños bit a bit, una línea de código a la vez, con pasión y persistencia diaria.</p>
+<p align="center"><em>Última actualización (AWS): 23/12/2025, 09:13:40 p.m.</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
