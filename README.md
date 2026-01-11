@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Ingeniero de Software</strong></p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Constancia diaria, construcción sólida y optimismo ingenioso: la fórmula para crear productos tecnológicos de alto impacto.</p>
-<p align="center"><em>Última actualización (AWS): 10/01/2026, 01:09:34 p.m.</em></p>
+<p align="center"><strong>Frase del día:</strong> Construyendo soluciones innovadoras con persistencia diaria, un paso a la vez, hacia el éxito.</p>
+<p align="center"><em>Última actualización (AWS): 10/01/2026, 09:09:34 p.m.</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
