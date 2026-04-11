@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Ingeniero de Software</strong></p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Código, constancia y creatividad: la clave para construir soluciones perdurables en un mundo tech.</p>
-<p align="center"><em>Última actualización (AWS): 11/04/2026, 09:04:14 a.m.</em></p>
+<p align="center"><strong>Frase del día:</strong> Construyendo productos sólidos día a día con tecnología y dedicación constante, dando forma a un futuro brillante.</p>
+<p align="center"><em>Última actualización (AWS): 11/04/2026, 02:04:14 p.m.</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
