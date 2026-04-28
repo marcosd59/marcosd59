@@ -14,8 +14,8 @@
 <p align="center">Soy <strong>Ingeniero de Software</strong></p>
 
 <!-- AWS:START -->
-<p align="center"><strong>Frase del día:</strong> Construyendo soluciones innovadoras, paso a paso, con un enfoque práctico y determinación inquebrantable.</p>
-<p align="center"><em>Última actualización (AWS): 28/04/2026, 06:04:15 a.m.</em></p>
+<p align="center"><strong>Frase del día:</strong> Construye paso a paso, código por código, proyecto tras proyecto, y verás cómo la constancia diaria te lleva a crear soluciones tecnológicas excepcionales.</p>
+<p align="center"><em>Última actualización (AWS): 28/04/2026, 11:04:14 a.m.</em></p>
 <!-- AWS:END -->
 
 <div id="badges" align="center" text-decoration="none">
